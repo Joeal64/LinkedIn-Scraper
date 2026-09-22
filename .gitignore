@@ -1,0 +1,8 @@
+
+# Separate projects that live here by accident - they have their own repos
+AIVRE/
+Atari-Breakout-Arduino-/
+Library-System/
+
+# Scraper output
+LinkedInJobs_*/
